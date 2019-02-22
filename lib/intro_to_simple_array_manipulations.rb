@@ -4,3 +4,4 @@ def using_push(array, string)
 end
 
 #using_unshift
+def using_unshift(array, string)
