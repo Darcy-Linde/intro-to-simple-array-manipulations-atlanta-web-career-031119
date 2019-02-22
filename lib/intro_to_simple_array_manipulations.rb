@@ -46,3 +46,6 @@ end
 #using_flatten
 def using_flatten(array)
   array.flatten
+end
+
+#using_delete_at
