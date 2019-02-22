@@ -49,4 +49,4 @@ def using_flatten(array)
 end
 
 #using_delete_at
-def using_delete_at
+def using_delete_at(array)
