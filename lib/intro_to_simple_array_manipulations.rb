@@ -45,3 +45,4 @@ end
 
 #using_flatten
 def using_flatten(array)
+  array.flatten
