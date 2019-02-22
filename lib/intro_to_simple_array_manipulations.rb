@@ -26,3 +26,8 @@ end
 #shift_with_args
 def shift_with_args(array)
   array.shift(2)
+end
+
+#using_concat
+def using_concat(a1, a2)
+  
