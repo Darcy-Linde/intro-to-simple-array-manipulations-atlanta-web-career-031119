@@ -34,4 +34,5 @@ def using_concat(a1, a2)
 end
 
 #using_insert
-def using_insert(a1, a2)
+def using_insert(array, element)
+  
